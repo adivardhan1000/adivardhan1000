@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adivardhan</h1>
+  <h1 align="center">Hi 👋, I'm Adivardhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adivardhan1000&label=Profile%20views&color=0e75b6&style=flat" alt="adivardhan1000" /> </p>
 
 - 🔭 I’m currently working with [Monachil Capital Parterns LP](https://www.monachilpartners.com/)
@@ -14,7 +14,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivardhan1000&show_icons=true&locale=en&layout=compact" alt="adivardhan1000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivardhan1000&show_icons=true&locale=en" alt="adivardhan1000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivardhan1000&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="adivardhan1000" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adivardhan1000&" alt="adivardhan1000" /></p>
 
