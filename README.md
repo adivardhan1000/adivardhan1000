@@ -17,5 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivardhan1000&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="adivardhan1000" />
 </p>
 
+
+![Metrics](https://raw.githubusercontent.com/adivardhan1000/adivardhan1000/main/github-metrics.svg)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adivardhan1000&" alt="adivardhan1000" /></p>
 
